@@ -1,0 +1,17 @@
+C:\Users\MAHAMA ADAMS\source\repos\payroll\bin\Debug\net6.0-windows\payroll.exe
+C:\Users\MAHAMA ADAMS\source\repos\payroll\bin\Debug\net6.0-windows\payroll.deps.json
+C:\Users\MAHAMA ADAMS\source\repos\payroll\bin\Debug\net6.0-windows\payroll.runtimeconfig.json
+C:\Users\MAHAMA ADAMS\source\repos\payroll\bin\Debug\net6.0-windows\payroll.dll
+C:\Users\MAHAMA ADAMS\source\repos\payroll\bin\Debug\net6.0-windows\payroll.pdb
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.vbproj.AssemblyReference.cache
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.Form1.resources
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.vbproj.GenerateResource.cache
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.AssemblyInfoInputs.cache
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.AssemblyInfo.vb
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.vbproj.CoreCompileInputs.cache
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.dll
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\refint\payroll.dll
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.pdb
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\payroll.genruntimeconfig.cache
+C:\Users\MAHAMA ADAMS\source\repos\payroll\obj\Debug\net6.0-windows\ref\payroll.dll
